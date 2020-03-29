@@ -1,0 +1,5 @@
+com\wang\controller\VideoController.class
+com\wang\interceptor\LoginInterceptor.class
+com\wang\controller\UsersController.class
+com\wang\bean\AdminUser.class
+com\wang\controller\HelloController.class
