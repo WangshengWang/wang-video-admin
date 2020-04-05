@@ -1,0 +1,5 @@
+com\wang\mapper\VideosMapper.class
+com\wang\mapper\BgmMapper.class
+com\wang\mapper\UsersMapper.class
+com\wang\mapper\UsersReportMapper.class
+com\wang\mapper\UsersReportMapperCustom.class
