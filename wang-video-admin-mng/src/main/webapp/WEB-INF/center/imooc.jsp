@@ -19,11 +19,11 @@
 	    </ul>
 	</div>
 	
-	<h1 class="page-title"> 小慕短视频后台管理系统 </h1>
+	<h1 class="page-title"> 移动短视频后台管理系统 </h1>
                         
 	<div class="clearfix"></div>
         
-	<div class="row">
+	<%-- <div class="row">
 	    <div class="col-lg-6 col-xs-12 col-sm-12">
 	        
 	        <div class="portlet light portlet-fit bordered">
@@ -68,14 +68,6 @@
 	                        </div>
 	                    </div>
 	                </div>
-	                
-<!-- 	                <div class="row" style="margin-top: 15px;"> -->
-<!-- 	                    <div class="col-md-12"> -->
-<!-- 	                        <div class="mt-widget-3" style="padding-top: 15px;"> -->
-<!-- 	                        	彩蛋：分布式集群架构的演变 -->
-<!-- 	                        </div> -->
-<!-- 	                    </div> -->
-<!-- 	                </div> -->
 	            </div>
 	        </div>
 	        
@@ -110,4 +102,4 @@
 	            </div>
 	        </div>
 	    </div>
-	</div>
+	</div> --%>

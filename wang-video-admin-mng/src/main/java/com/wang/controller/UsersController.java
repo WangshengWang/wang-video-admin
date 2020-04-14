@@ -53,7 +53,7 @@ public class UsersController {
 		// TODO 模拟登陆
 		if (StringUtils.isBlank(username) || StringUtils.isBlank(password)) {
 			return IMoocJSONResult.errorMap("用户名和密码不能为空");
-		} else if (username.equals("lee") && password.equals("lee")) {
+		} else if (username.equals("wang") && password.equals("123456")) {
 			
 			String token = UUID.randomUUID().toString();
 			AdminUser user = new AdminUser(username, password, token);

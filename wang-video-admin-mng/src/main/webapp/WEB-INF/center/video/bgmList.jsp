@@ -13,7 +13,7 @@
 	            <i class="fa fa-circle"></i>
 	        </li>
 	        <li>
-	            <span>bgm管理</span>
+	            <span>BGM管理</span>
 	            <i class="fa fa-circle"></i>
 	        </li>
 	        <li>

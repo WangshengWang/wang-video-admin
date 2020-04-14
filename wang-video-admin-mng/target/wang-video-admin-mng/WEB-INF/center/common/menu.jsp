@@ -48,18 +48,18 @@
 				<li class="nav-item ">
                     <a href="javascript:;" class="nav-link nav-toggle">
                         <i class="icon-basket-loaded"></i>
-                        <span class="title">bgm管理</span>
+                        <span class="title">BGM管理</span>
 						<span class="arrow"></span>
                     </a>
                     <ul class="sub-menu">
 						<li class="nav-item ">
                             <a id="bgmListMenu" href="<%=request.getContextPath() %>/video/showBgmList.action" class="ajaxify nav-link " id="bgmListMenu">
-                                <span class="title">bgm列表</span>
+                                <span class="title">BGM列表</span>
                             </a>
                         </li>
                         <li class="nav-item ">
                             <a href="<%=request.getContextPath() %>/video/showAddBgm.action" class="ajaxify nav-link ">
-                                <span class="title">添加bgm</span>
+                                <span class="title">添加BGM</span>
                             </a>
                         </li>
                     </ul>
